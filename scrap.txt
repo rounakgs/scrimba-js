@@ -1,0 +1,142 @@
+//document.getElementById('count-el').innerHTML=4
+//let count=0
+//console.log(count)
+
+//let myage=19
+
+//console.log(myage)
+
+//let count=5/2
+
+//console.log(count)
+//let firstbatch=5
+//let secondbatch=8
+
+//let count=firstbatch+secondbatch
+
+//console.log(count)
+
+
+//let myage=19
+//let humandogratio=7
+
+//let mydogage=humandogratio*myage
+//console.log(mydogage)
+
+
+//let count=5
+//count=count+2
+//console.log(count)
+
+
+
+
+//let bonuspoints=50
+//console.log(bonuspoints)
+
+//bonuspoints=bonuspoints+50
+//console.log(bonuspoints)
+
+//bonuspoints=bonuspoints-75
+//console.log(bonuspoints)
+
+//bonuspoints=bonuspoints+45
+//console.log(bonuspoints)
+
+
+
+
+
+
+//function increment() {
+//console.log("The button was clicked")
+//}
+
+
+//function countdown()
+//{
+//    console.log(5)
+//    console.log(4)
+//    console.log(3)
+//    console.log(2)
+//    console.log(1)
+//}
+
+//countdown()
+
+
+
+
+
+//countdown()
+
+
+
+//function number()
+//{
+//console.log(42)
+
+//}
+ 
+//number()
+
+
+///let lap1=34
+////let lap2=33
+////let lap3=36
+////function loglap()
+////{
+ ////   let totallaps=lap1+lap2+lap3;
+////     console.log(totallaps)
+//}
+
+//loglap()
+
+//let lapscompleted=0
+//function increament()
+//{
+    
+ //lapscompleted=lapscompleted+1   
+    
+//}    
+//increament()
+   // increament()
+   // increament()
+
+
+//console.log(lapscompleted)
+
+//let countEl = document.getElementById("count-el")
+
+//console.log(countEl)
+
+//let count = 0
+
+//function increment() {
+//    count = count + 1
+//   countEL.innertext=count
+    
+//}
+
+//function save()
+//{
+  //  console.log(count)
+//}
+
+//let username="per" 
+//let message="you have tree new notification"
+//let messagetouser= message+ ","+ username+"!"
+//console.log(messagetouser)
+
+//let welcomeEl = document.getElementById("welcome-el")
+
+//let name = "Rounak"
+//let greeting = "Welcome back "
+
+//welcomeEl.innerText = greeting + name
+
+
+//
+//welcomeEl.innerText += "👋"
+
+
